@@ -1,0 +1,7 @@
+x = int(input("First number: "))
+y = int(input("Second number: "))
+print("Add:", x + y)
+print("Subtract:", x - y)
+print("Multiply:", x * y)
+print("Divide:", x / y)
+print("Remainder:", x % y)
